@@ -15,20 +15,6 @@ Starter repository for the Week 1 Time Series Analysis lab.
 
 ## Setup (do this once)
 
-### What is a Jupyter Notebook?
-
-A Jupyter Notebook is an interactive document that combines code, text, and figures in a single file (`.ipynb`). It is organized into **cells** — each cell contains either code or explanatory text, and you can run cells individually or all at once. When you run a code cell, the output (numbers, plots, etc.) appears directly below it. Notebooks are widely used in science and data analysis because they make it easy to write, run, and inspect code in small chunks.
-
-### What is VS Code?
-
-VS Code (Visual Studio Code) is a free code editor made by Microsoft. It can open and run Jupyter Notebooks directly. It is a popular alternative to running notebooks in a web browser (the classic JupyterLab interface). Both work with the same `.ipynb` files — the choice is just a matter of preference. For this course we use VS Code.
-
-### What is a kernel?
-
-A kernel is the Python engine that actually runs the code in your notebook. When you open a notebook you need to tell it which Python environment to use — in our case that is the `mae223` environment you will create below. Think of the kernel as the engine and the notebook as the dashboard.
-
----
-
 ### Step 0 — Create a GitHub account
 
 You need a free GitHub account to access this assignment.
@@ -43,6 +29,18 @@ You need a free GitHub account to access this assignment.
 6. Wait a few seconds, then refresh — you will see a link to your own repo
 
 > Your repo is an independent copy. Changes you make do not affect anyone else's, and no other student can see yours.
+
+### What is a Jupyter Notebook?
+
+A Jupyter Notebook is an interactive document that combines code, text, and figures in a single file (`.ipynb`). It is organized into **cells** — each cell contains either code or explanatory text, and you can run cells individually or all at once. When you run a code cell, the output (numbers, plots, etc.) appears directly below it. Notebooks are widely used in science and data analysis because they make it easy to write, run, and inspect code in small chunks.
+
+### What is VS Code?
+
+VS Code (Visual Studio Code) is a free code editor made by Microsoft. It can open and run Jupyter Notebooks directly. It is a popular alternative to running notebooks in a web browser (the classic JupyterLab interface). Both work with the same `.ipynb` files — the choice is just a matter of preference. For this course we use VS Code.
+
+### What is a kernel?
+
+A kernel is the Python engine that actually runs the code in your notebook. When you open a notebook you need to tell it which Python environment to use — in our case that is the `mae223` environment you will create below. Think of the kernel as the engine and the notebook as the dashboard.
 
 ---
 
