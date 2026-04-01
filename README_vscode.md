@@ -91,9 +91,9 @@ VS Code can create the `mae223` conda environment directly from `environment.yml
 2. Type `Python: Create Environment` and select it
 3. Choose **Conda**
 4. VS Code will show a list of environment files it found. If `environment.yml` appears, select it and skip to step 5. **If nothing appears or the list is empty:**
-   - Click the **browse** or **folder** icon in the prompt
-   - Navigate to your `time-series-analysis` folder
-   - Select `environment.yml` and click **Open**
+   - Press `Escape` to cancel
+   - Go to **File → Open Folder**, navigate to your `time-series-analysis` folder, and click **Select Folder**
+   - Once the folder is open, repeat steps 1–4 — VS Code should now find `environment.yml`
 5. Wait a few minutes while the environment is created — a progress bar will appear at the bottom of VS Code
 6. When it finishes, VS Code will automatically register `mae223` as an available kernel — no further steps needed
 
